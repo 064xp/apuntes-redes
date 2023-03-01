@@ -50,3 +50,8 @@ Ver estadísticas generales BGP
 ```
 Router# show bgp all summary
 ```
+
+Ver logs de BGP
+```
+Router# debug ip bgp all
+```

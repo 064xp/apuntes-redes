@@ -207,7 +207,7 @@ Todos los demás router se vuelve DROTHER (routers que no son DR ni BDR) y usan 
 
 Los DROTHER ahora envían sus LSAs únicamente al DR y BDR, el DR se encarga de reenviar estos LSAs al resto de los routers OSPF. Esto se hace para evitar latencia y saturación de la red.
 
-![[Demo-Role-DR-3107241887.gif]]
+![DRnBDR](resources/Demo-Role-DR-3107241887.gif)
 
 
 ## OSPF Multiarea
@@ -228,7 +228,7 @@ Básicamente, al tener una sola área con una red grande, se hacen uso de muchos
 - Menor sobrecarga de actualización de estado de enlace (LSA)
 - Menor frecuencia de cálculos de SPF
 
-![[Ventajas-OSPF-multiárea-660303553.png]]
+![multiarea](resources/Ventajas-OSPF-multiárea-660303553.png)
 
 ### Recomendaciones de CISCO
 1. Un área no debe tener mas de 50 routers

@@ -42,7 +42,7 @@ Cuando se usa BGP para conectar varios sistemas autónomos se considera BGP exte
 	6. Si se recibe una notificación para terminar, se termina la conexión TCP y se regresa a **Idle**.
   
 ## Flujo de los Estado BGP
-![[bgp+states-235506452.png]]
+![estados bgp](resources/bgp+states-235506452.png)
 
 # Comandos
 

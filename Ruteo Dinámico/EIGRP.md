@@ -72,8 +72,6 @@ Se usa cuando busca redes y realiza otras tareas.
 
 ## Reply
 Contestación a un paquete **query**
-
-
 Usa **RTP confiable**.
 
 # Funcionamiento
@@ -176,7 +174,7 @@ K4 = 0
 K5 = 0
 
 ## Formula Métrica
-![[eigrp-metric.png]]
+![metrica eigrp](resources/eigrp-metric.png)
 
 ## Comandos de Métrica
 

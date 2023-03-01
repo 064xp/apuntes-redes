@@ -7,7 +7,7 @@ Esto ocurre cuando se busca crear redundancia en capa 2, si se tienen 2 switches
 
 Spanning tree logra esto dando una  "dirección" a los broadcasts.
 
-![[Screen+Shot+2017-11-27+at+10.56.png]]
+![STP example](Screen+Shot+2017-11-27+at+10.56.png)
 
 # BPDU
 Spanning tree usa Bridge Protocol Data Unit (BPDUs) que son mensajes que envían información de la topología.

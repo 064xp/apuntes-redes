@@ -174,7 +174,7 @@ K4 = 0
 K5 = 0
 
 ## Formula Métrica
-![metrica eigrp](resources/eigrp-metric.png)
+![metrica eigrp](../resources/eigrp-metric.png)
 
 ## Comandos de Métrica
 
